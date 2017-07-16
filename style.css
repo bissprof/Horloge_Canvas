@@ -1,0 +1,30 @@
+   
+h1 {
+    margin: 25px;
+    padding: 0;
+    text-align : center;
+    font-size: 3em;
+    background-color: rgb(200,200,250);
+}
+
+html { 
+    background-color : silver;
+    min-width: 750px;
+    border-radius: 5px;
+    }
+
+body { 
+    min-width: 600px;
+    background-color : white;
+    border : 1px inset black;
+    margin: 0px 50px;
+    padding: 0px 25px 25px 25px;
+    border-radius: 5px;
+    text-align: center;
+    }
+
+#zone_canvas { 
+    background-color: #ECECEC; 
+    display : inline-block;
+    border-radius: 5px;
+}
